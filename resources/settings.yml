@@ -1,0 +1,9 @@
+# my-shared-library/resources/settings.yml
+staging:
+  environment: "staging"
+  databaseUrl: "jdbc:mysql://staging-db.example.com"
+  apiUrl: "https://api.staging.example.com"
+production:
+  environment: "production"
+  databaseUrl: "jdbc:mysql://prod-db.example.com"
+  apiUrl: "https://api.example.com"
