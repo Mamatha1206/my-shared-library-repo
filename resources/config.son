@@ -1,0 +1,9 @@
+// my-shared-library/resources/config.json
+{
+    "mavenVersion": "3.8.1",
+    "javaVersion": "1.8",
+    "buildOptions": {
+        "skipTests": true,
+        "memoryLimit": "1024m"
+    }
+}
